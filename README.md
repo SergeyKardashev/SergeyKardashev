@@ -1,33 +1,53 @@
-Hi 👋 My name is Sergei Kardashev
-=================================
+# Hi 👋 My name is Sergei Kardashev
 
-Front-end Developer and Product Designer
-----------------------------------------
+## Full-stack developer
 
-I am a fan of frontend development, UI design, UX research, and creating services that improve everything. 
+I have worked for over 20 years in IT and have developed a unique set of skills in development, design, UX research, and management. These diverse experiences allow me to effectively communicate with team members, adapting my language to suit each role—be it talking about metrics and KPIs with managers or discussing design principles with designers.
 
-I believe that a wheel can be reinvented and that everything should be improved except for cranberry cake. It is perfect as it is 
+After getting master's degree in engineering, I learned to code from books and courses simultaneously while working. I made a few simple websites as a freelancer.
 
-With two decades in tech, I've screwed up a couple projects, met great colleagues, and developed priceless problem-solution cheat-sheets. All of this has been incredibly helpful 
+Then in [Tele2](https://www.tele2.com/) I made Data Shop Service Catalog and digests for employees. 
 
-Fired twice and asked back three times, I regret returning once 
+Then I completed the Web Development Professional Training Course at [Practicum](https://practicum.yandex.ru/) by [Yandex](https://yandex.eu/) to polish my skills in front-end and learn backend. 
 
-Wisdom from gurus in design, management, and data analysis has been invaluable to me. Despite making mistakes, I continue to learn and am passionate about what I do
+Now when I learned both front-end and back-end, I eager to put it in practice and make products that make life better. 
 
-* 🌍  I'm based in Phuket, Thailand
-* 🖥️  See my portfolio at [DesignThatWorks](http://designthatworks.ru/)
-* 🧠  I'm learning TypeScript and SCSS
-* 🤝  I'm open to collaborating on new projects
-* ⚡  Let's create something great together
+**Let's create something great together**
+
+- 1 year as an HTML+CSS Web Developer in [Tele2](https://www.tele2.com/) 
+- 1.5 years as a freelancer
+- 20 years as UI/UX Designer and 3 years as Product Manager
+- 🌍 I'm based in Phuket, Thailand
+- 🧠 I'm learning TypeScript and SCSS
+- 🤝 I'm open to collaborating on new projects
+
 
 ### Skills
+HTML, CSS, JavaScript, React, Express, MongoDB, NodeJS, API, Nginx, JWT, Postman.
 
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-</p>
+![HTML](./images/html.svg "HTML") ![CSS](./images/css.svg "CSS") ![JS](./images/js.svg "JS") ![React](./images/react.svg "React") ![Node.js](./images/nodejs.svg "Node.js") ![Express](./images/express.svg "Express") ![MongoDB](./images/mongodb.svg "MongoDB") ![VS Code](./images/vscode.svg "VS Code") ![Postman](./images/postman.svg "Postman") ![Figma](./images/figma.svg "Figma") ![Photoshop](./images/ps.svg "Photoshop") ![Illustrator](./images/ai.svg "Illustrator") 
 
 
 ### Socials
+<p align="left">
 
-<p align="left"> <a href="https://www.facebook.com/kardashev.sergey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/SergeyKardashev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sergey-kardashev-b769511a3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://www.linkedin.com/in/sergey-kardashev-b769511a3" target="_blank" rel="noreferrer"> <img src="./images/linkedin.svg" width="32" height="32"/> </a> 
+<a href="https://www.github.com/SergeyKardashev" target="_blank" rel="noreferrer"> <img src="./images/github.svg" width="32" height="32"/> </a> 
+<a href="https://www.facebook.com/kardashev.sergey" target="_blank" rel="noreferrer"><img src="./images/fb.svg" width="32" height="32"/></a>
+<a href="http://www.vk.com/sergei_kardashev" target="_blank" rel="noreferrer"><img src="./images/vk.svg" width="32" height="32"/></a>
+<a href="https://www.habr.com/ru/users/Sergey_Kardashev/publications/articles/" target="_blank" rel="noreferrer"><img src="./images/habr.svg" width="32" height="32"/></a>
+</p>
+
+### My contacts
+<!-- md -->
+E-mail: [kardashev.job@yandex.ru](mailto:kardashev.job@yandex.ru)
+<!-- html
+<p>E-mail: <a href="mailto:kardashev.job@yandex.ru">kardashev.job@yandex.ru</a></p>
+-->
+Telegram: [https://t.me/Kardashev_Sergei](https://t.me/Kardashev_Sergei)
+
+WhatsApp: +7 926 593-57-66
+
+
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
